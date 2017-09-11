@@ -1,0 +1,13 @@
+# Compiled
+*.pyc
+
+# Models
+*.h5
+*.hdf5
+
+# Jupyter notebook
+*.ipynb
+
+# Images
+*.jpg
+*.png
